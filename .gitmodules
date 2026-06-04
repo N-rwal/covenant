@@ -1,0 +1,3 @@
+[submodule "vendor/ldrobot-d500-ros2"]
+	path = vendor/ldrobot-d500-ros2
+	url = git@github.com:N-rwal/ldrobot-d500-ros2.git
