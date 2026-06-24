@@ -9,3 +9,6 @@
 	path = vendor/ardupilot
 	url = https://github.com/ArduPilot/ardupilot.git
 	branch = master
+[submodule "vendor/rf2o_laser_odometry"]
+	path = vendor/rf2o_laser_odometry
+	url = https://github.com/MAPIRlab/rf2o_laser_odometry.git

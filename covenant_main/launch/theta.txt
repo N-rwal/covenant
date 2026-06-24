@@ -1,0 +1,11 @@
+lidarSlam.launch - just lidar and lidarSlam
+
+slam.bringup - drone, lidar, slam
+
+slam_scripted.bringup - drone, lidar, slam and scripts
+
+slam_full_scripted.bringup - drone, lidar, slam, scripts, true odom
+
+nav_scripted.bringup - drone, lidar, scripts, true odom?, nav
+
+custom_navigation_launch - nav2 nodes, tunned

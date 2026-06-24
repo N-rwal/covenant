@@ -39,6 +39,9 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'arm_command_udp_server = covenant_main.arm_command_udp_server:main',
+            'ros_topics_udp_bridge = covenant_main.ros_topics_udp_bridge:main',
+            'test_udp_sender_lidar = covenant_main.test_udp_sender_lidar:main',
         ],
     },
 )

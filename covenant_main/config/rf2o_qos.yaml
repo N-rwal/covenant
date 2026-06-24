@@ -1,0 +1,8 @@
+/rf2o:
+  ros__parameters:
+    qos_overrides:
+      /ldlidar_node/scan:
+        subscription:
+          reliability: reliable
+          history: keep_last
+          depth: 10
